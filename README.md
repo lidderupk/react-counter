@@ -1,4 +1,3 @@
-# React Static Boilerplate (Barebones)
 
 **Quick Start:**
 
